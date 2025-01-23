@@ -3,7 +3,6 @@
   
   
   <img src="https://media0.giphy.com/media/ea74cjF0jieXu/source.gif" alt="source.gif" width="150" height="150" />
- 
  <style>
         .badge {
             background-color: white;
