@@ -4,10 +4,10 @@
   
   <img src="https://media0.giphy.com/media/ea74cjF0jieXu/source.gif" alt="source.gif" width="150" height="150" />
  
-  <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=qkjlvalleser@tip.edu.ph&tf=1
-">userid@gmail.com</a>
+ 
 <div id="badges">
   <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=qkjlvalleser@tip.edu.ph&tf=1">
-    <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-google-mail-gmail-logo-logotype-7.png" alt="Gmail Badge"/>
+    <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-google-mail-gmail-logo-logotype-7.png" alt="Gmail Badge"/></a></div>
+
   <p>🌱I'm currently taking Computer Engineering program at Technological Institute of the Philippines Quezon City Campus <br><br>🌺I do reading, dancing, singing, or going out on my leisure time!<br><br>🌟I'm constantly improving and learning new skills to stay relevant<br><br>Doing my best to achieve my dreams!</p>
 </div>
