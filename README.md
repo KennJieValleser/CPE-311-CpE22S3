@@ -11,13 +11,8 @@
             padding: 4px 8px;
             text-align: center;
             border-radius: 5px;
-            margin-left: 5px; /* Adding some space between the image and the badge */
-            font-family: Arial, sans-serif; /* Ensuring consistent font styling */
-        }
-        /* Additional styling for the container */
-        #badges {
-            display: flex;
-            align-items: center;
+            margin-left: 5px; 
+            font-family: Arial, sans-serif; 
         }
 </style>
 <div id="badges">
