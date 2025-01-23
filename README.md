@@ -4,13 +4,22 @@
   
   <img src="https://media0.giphy.com/media/ea74cjF0jieXu/source.gif" alt="source.gif" width="150" height="150" />
  
- .badge {
-  background-color: white;
-  color: grey;
-  padding: 4px 8px;
-  text-align: center;
-  border-radius: 5px;
-}
+ <style>
+        .badge {
+            background-color: white;
+            color: grey;
+            padding: 4px 8px;
+            text-align: center;
+            border-radius: 5px;
+            margin-left: 5px; /* Adding some space between the image and the badge */
+            font-family: Arial, sans-serif; /* Ensuring consistent font styling */
+        }
+        /* Additional styling for the container */
+        #badges {
+            display: flex;
+            align-items: center;
+        }
+    </style>
 <div id="badges">
   <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=qkjlvalleser@tip.edu.ph&tf=1">
     <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-google-mail-gmail-logo-logotype-7.png" alt="Gmail Badge" style="width: 30px; height: auto;"/><span class="badge">Gmail</span>
