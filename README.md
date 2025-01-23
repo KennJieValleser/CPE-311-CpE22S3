@@ -19,7 +19,7 @@
             display: flex;
             align-items: center;
         }
-    </style>
+</style>
 <div id="badges">
   <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=qkjlvalleser@tip.edu.ph&tf=1">
     <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-google-mail-gmail-logo-logotype-7.png" alt="Gmail Badge" style="width: 30px; height: auto;"/><span class="badge">Gmail</span>
